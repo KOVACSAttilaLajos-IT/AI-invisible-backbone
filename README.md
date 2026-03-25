@@ -1,4 +1,4 @@
-# ai-invisible-backbone
+# AI-invisible-backbone
 The Invisible Backbone of AI
 ## Why AI is not a model problem — but an E2E system problem
 
