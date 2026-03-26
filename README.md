@@ -46,13 +46,13 @@ Because what you see is only the top layer.
 
 Behind every working AI system:
 
-Data ingestion
-Data transformation
-Storage
-Retrieval
-Orchestration
-Infrastructure
-Governance
+- Data ingestion
+- Data transformation
+- Storage
+- Retrieval
+- Orchestration
+- Infrastructure
+- Governance
 
 This is the system.
 
@@ -111,11 +111,11 @@ It is not just model cost.
 
 It is:
 
-Data movement
-Storage
-Idle compute
-Pipeline inefficiencies
-Scaling overhead
+- Data movement
+- Storage
+- Idle compute
+- Pipeline inefficiencies
+- Scaling overhead
 
 AI cost is not model cost. It is system cost
 
