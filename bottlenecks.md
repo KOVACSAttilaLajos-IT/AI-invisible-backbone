@@ -13,5 +13,9 @@ AI systems are not limited by intelligence.
 
 They are limited by "flow".
 
-```text
-Data → Processing → Model → Output
+Data → Processing → Model → Output 
+
+If this flow breaks or slows down, the system degrades.
+
+Not gradually — but visibly.
+
