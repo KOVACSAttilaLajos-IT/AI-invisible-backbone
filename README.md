@@ -23,3 +23,9 @@ Dell’s response pointed to a critical shift:
  "The backbone of AI is End-to-End architecture".
 
 This repository is about that backbone.
+
+## Connect
+
+I share related thoughts and deeper context on LinkedIn:
+
+→ www.linkedin.com/in/kovács-attila-lajos-1600ba53
