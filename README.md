@@ -118,7 +118,7 @@ It is:
 - Pipeline inefficiencies
 - Scaling overhead
 
-AI cost is not model cost. It is system cost
+AI cost is not model cost.  It is system cost
 
 ## 6. Failure Modes
 
