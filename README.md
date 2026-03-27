@@ -56,7 +56,7 @@ Behind every working AI system:
 
 This is the system.
 
-AI = Data × Pipeline × Infrastructure × Governance
+>**AI = Data × Pipeline × Infrastructure × Governance**
 
 The model is only one component.
 
