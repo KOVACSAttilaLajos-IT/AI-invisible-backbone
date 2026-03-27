@@ -71,15 +71,16 @@ Data → Processing → Model → Integration → Output → Feedback
 
 If this chain breaks:
 
-outputs become inconsistent
-latency increases
-costs explode
-trust disappears
+- outputs become inconsistent
+- latency increases
+- costs explode
+- trust disappears
 
 Without E2E:
 
-You don’t have an AI system.
-You have an AI demo.
+>**You don’t have an AI system
+You have an AI demo**
+>'''valami"""
 
 ## 4. Bottlenecks (Where AI actually fails)
 
