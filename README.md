@@ -102,6 +102,7 @@ Different sources → different answers
 Pipelines break under real load
 
 These are not edge cases.  
+
 These are production realities.
 
 ## 5. Cost Reality
