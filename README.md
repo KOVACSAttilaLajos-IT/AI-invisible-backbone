@@ -36,7 +36,7 @@ What people see:
 
 This creates the perception that:
 
-AI = model + prompt
+>**AI = model + prompt**
 
 This is useful, but incomplete.
 
