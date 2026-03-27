@@ -93,7 +93,7 @@ Common issues:
 - retry storms
 - partial failures
 
-AI systems are pipelines — not single components.
+>**AI systems are pipelines — not single components.**
 
 ## 7. The real pattern
 
