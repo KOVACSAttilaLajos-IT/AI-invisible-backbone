@@ -78,9 +78,8 @@ If this chain breaks:
 
 Without E2E:
 
->**You don’t have an AI system**
->
->**You have an AI demo**
+>**You don’t have an AI system
+>You have an AI demo**
 
 
 ## 4. Bottlenecks (Where AI actually fails)
