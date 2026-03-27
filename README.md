@@ -90,15 +90,15 @@ They are system bottlenecks.
 
 Typical examples:
 
-GPU starvation
+- GPU starvation:
 Compute is available, but data is not delivered fast enough
-IO bottlenecks
+- IO bottlenecks:
 Storage cannot keep up with processing demand
-Network latency
+- Network latency:
 Data movement slows down inference
-Data inconsistency
+- Data inconsistency:
 Different sources → different answers
-Orchestration gaps
+- Orchestration gaps:
 Pipelines break under real load
 
 These are not edge cases.
