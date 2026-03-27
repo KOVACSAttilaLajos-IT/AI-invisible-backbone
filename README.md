@@ -155,7 +155,7 @@ It fails where no one is looking.
 
 And that place is the system behind it.
 
-The backbone of AI is invisible — and that’s exactly where everything is decided.
+> **The backbone of AI is invisible — and that’s exactly where everything is decided**
 
 ## Connect
 
