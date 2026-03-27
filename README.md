@@ -145,7 +145,7 @@ An AI system becomes real when it is:
 
 Until then:
 
->**It is still experimentation**
+> **It is still experimentation**
 
 ## 8. Closing
 
