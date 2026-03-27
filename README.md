@@ -101,7 +101,7 @@ Different sources → different answers
 - Orchestration gaps:
 Pipelines break under real load
 
-These are not edge cases.  
+These are not edge cases.
 
 These are production realities.
 
