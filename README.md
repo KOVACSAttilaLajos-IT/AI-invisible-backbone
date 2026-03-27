@@ -126,9 +126,9 @@ When AI “doesn’t work”, it is often misdiagnosed.
 
 Examples:
 
-Hallucination → context / retrieval issue
-Slow response → infrastructure issue
-Inconsistent output → data pipeline issue
+- Hallucination → context / retrieval issue
+- Slow response → infrastructure issue
+- Inconsistent output → data pipeline issue
 
 These are not AI problems.
 
@@ -138,14 +138,14 @@ They are E2E problems.
 
 An AI system becomes real when it is:
 
-Scalable
-Measurable
-Controlled
-Auditable
+- Scalable
+- Measurable
+- Controlled
+- Auditable
 
 Until then:
 
-It is still experimentation.
+>**It is still experimentation**
 
 ## 8. Closing
 
