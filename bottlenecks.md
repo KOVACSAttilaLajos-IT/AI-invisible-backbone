@@ -101,7 +101,7 @@ These are not isolated issues.
 
 They are symptoms of the same problem:
 
-AI systems fail at the boundaries between components.
+- AI systems fail at the boundaries between components.
 
 ## 8. What this means
 
