@@ -31,9 +31,9 @@ But data is not delivered fast enough.
 
 Result:
 
-idle GPUs
-wasted cost
-unpredictable performance
+- idle GPUs
+- wasted cost
+- unpredictable performance
 
 This is one of the most expensive failures.
 
@@ -43,9 +43,9 @@ Storage cannot keep up with demand.
 
 Typical symptoms:
 
-slow training
-delayed inference
-pipeline backpressure
+- slow training
+- delayed inference
+- pipeline backpressure
 
 AI workloads are IO-heavy.
 
@@ -57,9 +57,9 @@ Data needs to move.
 
 Between:
 
-storage and compute
-services and APIs
-regions and environments
+- storage and compute
+- services and APIs
+- regions and environments
 
 Every hop adds latency.
 
