@@ -75,9 +75,9 @@ Different update cycles.
 
 Result:
 
-inconsistent outputs
-reduced trust
-hard-to-debug behavior
+- inconsistent outputs
+- reduced trust
+- hard-to-debug behavior
 
 This is often misinterpreted as “model failure”.
 
