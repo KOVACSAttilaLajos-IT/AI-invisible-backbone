@@ -79,9 +79,7 @@ Result:
 - reduced trust
 - hard-to-debug behavior
 
-This is often misinterpreted as “model failure”.
-
-It is not.
+This is often misinterpreted as “model failure”, but it is not.
 
 ## 6. Orchestration gaps
 
